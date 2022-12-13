@@ -1,0 +1,8 @@
+#banner {
+    background-color: navy;
+    color: aliceblue;
+    text-align: center;
+    max-width: unset;
+    margin: 0 auto;
+    padding: 0%;
+}
